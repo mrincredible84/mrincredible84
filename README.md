@@ -23,7 +23,7 @@
 [facebook]: https://www.facebook.com/mrwarrenedwards
 [instagram]: https://www.instagram.com/mrwarrenedwards
 [youtube]: https://www.instagram.com/mrwarrenedwards
-[linkedin]: [https://linkedin.com/in/mrwarrenedwards/]
+[linkedin]: https://linkedin.com/in/mrwarrenedwards/
 [website]: https://www.mrwarrenedwards.com
 
 <!--
