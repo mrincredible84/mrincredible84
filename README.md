@@ -5,7 +5,7 @@
 - [Active Directory Home Lab](https://github.com/mrincredible84) **Under Construction
 
  <h2>Certifications</h2>
-- [Google IT Support Professional](insert link here)
+- [Google IT Support Professional](https://coursera.org/share/8e2f5414b9223f4a3d7b3f0f13b60380)
 
 <h2>📺 Popular YouTube Videos</h2>
 
